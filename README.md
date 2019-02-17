@@ -1,7 +1,7 @@
 # broadcastify-feed-to-discord
 Listen to your favorite Broadcastify broadcasts with friends at Discord because Node.JS is awesome!
 
-> A simple top stream grabber from Broadcastify.
+> A simple top stream feed grabber.
 
 ## Requirements
 
