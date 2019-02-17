@@ -12,7 +12,7 @@ Listen to your favorite Broadcastify broadcasts with friends at Discord because 
 
 ## Installation
 
-+ Create Discord Application: https://discordapp.com/developers/applications/ and get some fresh tokens;
-+ Change "CHANNELID" and "TOKEN" variables in scanner.js;
-+ Install packages: `npm install discord.js request cheerio phantom`;
-+ Run it: node scanner.js.
++ Create Discord Application: https://discordapp.com/developers/applications/ and get some fresh tokens
++ Change "CHANNELID" and "TOKEN" variables in scanner.js
++ Install packages: `npm install discord.js request cheerio phantom`
++ Run it: node scanner.js
