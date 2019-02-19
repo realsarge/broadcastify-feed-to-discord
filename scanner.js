@@ -16,7 +16,7 @@ var phantom = require('phantom');
 
 // SET CHANNELS
 var scannerchannel = "CHANNELID"
-var textchannel = 'CHANNELID'
+var textchannel = "CHANNELID"
 
 // SET VARIABLES
 var currentstream = defaultstream
@@ -28,7 +28,7 @@ client.on('ready', () => {
     let channel = client.channels.get(scannerchannel);
     client.user.setActivity(currentstream.name, {
         type: "LISTENING",
-        url: currenstream.stream
+        url: currentstream.stream
     })
     console.log('BOT Started.');
     checktop();
@@ -96,4 +96,4 @@ function update(streamlink, streamname) {
         })
 }
 
-client.login('TOKEN');
+client.login("TOKEN");
