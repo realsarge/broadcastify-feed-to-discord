@@ -19,5 +19,5 @@ Community Founded Project @ yrp.life
 
 * Create Discord Application: https://discordapp.com/developers/applications/ and get some fresh tokens
 * Change "CHANNELID" and "TOKEN" variables in scanner.js
-* Install packages: npm install discord.js request cheerio phantom node-opus opusscript
+* Install packages: ```npm install discord.js request cheerio phantom node-opus opusscript```
 * Run it: node scanner.js
