@@ -11,7 +11,7 @@ Community Founded Project @ yrp.life
 * Discord.js (npm install discord.js)
 * Request (npm install request)
 * Cheerio (npm install cheerio)
-* Phantom (npm install phantom)
+* Puppeteer (npm install puppeteer)
 * Node-Opus (npm install node-opus)
 * Opusscript (npm install opusscript)
 
