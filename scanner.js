@@ -16,8 +16,8 @@ var cheerio = require('cheerio');
 var puppeteer = require('puppeteer');
 
 // SET CHANNELS
-var scannerchannel = "SCANNER"
-var textchannel = "LOG"
+var scannerchannel = "CHANNELID"
+var textchannel = "LOGCHANNELID"
 
 // SET VARIABLES
 var currentstream = defaultstream
