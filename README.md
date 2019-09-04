@@ -1,4 +1,4 @@
-# YDDY:RP | broadcastify-feed-to-discord
+# h0kkaido | broadcastify-feed-to-discord
 
 Listen to your favorite Broadcastify broadcasts with friends at Discord because Node.JS is awesome!
 
